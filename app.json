@@ -1,8 +1,8 @@
 {
-    "name": "XD-Userbot",
+    "name": "Robinuserbot",
     "description": "A First Telegram Userbot Project With Multi Client Based On PyroGram!",
-    "logo": "https://telegra.ph/file/7e98fc1a320ee7fd023b9.jpg",
-    "repository": "https://github.com/NitricXd/XD-USERBOT",
+    "logo": "https://te.legra.ph/file/4aec0489d8273d17c3dcb.jpg",
+    "repository": "https://github.com/@Robin_smart_hai/Robinuserbot",
     "env": {
         "STRING_SESSION1": {
             "description": "pyrogram string session here",
@@ -17,7 +17,7 @@
             "required": true
         },
         "LOG_GROUP": {
-            "description": "Enter There group/ channel id where fbans etc stuffs logs ( Add @Zaid2_Robot and type /id, if channel then forward a message to @Zaid2_Robot.)",
+            "description": "Enter There group/ channel id where fbans etc stuffs logs ( Add @AboutRobin and type /id, if channel then forward a message to @AboutRobin.)",
             "required": false
         },
         "SUDO_USERS": {
